@@ -31,6 +31,4 @@ This repository contains a basic exploratory data analysis (EDA) project using a
 ## 📦 Requirements
 
 Install required libraries with:
-
-```bash
 pip install pandas numpy matplotlib seaborn
